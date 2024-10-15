@@ -56,7 +56,6 @@ MAX_WAYPOINTS = 99
 #'
 #'
 #' @export
-#' @import rgeos rgdal
 #' @importFrom graphics text
 #' @importFrom shotGroups getMinBBox
 #' @importFrom methods slot
